@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\6.2.rek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB3F814-496F-4F73-A855-31858590A2D2}|6.2.rek\\6.2.rek.vcxproj|C:\\Users\\USER\\source\\repos\\6.2.rek\\6.2.rek\\6.2.rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEB3F814-496F-4F73-A855-31858590A2D2}|6.2.rek\\6.2.rek.vcxproj|solutionrelative:6.2.rek\\6.2.rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFFA0C6-0CC7-48EC-8699-C8617C7EC4C0}|UnitTest_6.2_rek\\UnitTest_6.2_rek.vcxproj|C:\\Users\\USER\\source\\repos\\6.2.rek\\UnitTest_6.2_rek\\UnitTest_6.2_rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FFFA0C6-0CC7-48EC-8699-C8617C7EC4C0}|UnitTest_6.2_rek\\UnitTest_6.2_rek.vcxproj|solutionrelative:UnitTest_6.2_rek\\UnitTest_6.2_rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_6.2_rek.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.2.rek\\UnitTest_6.2_rek\\UnitTest_6.2_rek.cpp",
+              "RelativeDocumentMoniker": "UnitTest_6.2_rek\\UnitTest_6.2_rek.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.2.rek\\UnitTest_6.2_rek\\UnitTest_6.2_rek.cpp",
+              "RelativeToolTip": "UnitTest_6.2_rek\\UnitTest_6.2_rek.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T13:44:21.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.2.rek.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.2.rek\\6.2.rek\\6.2.rek.cpp",
+              "RelativeDocumentMoniker": "6.2.rek\\6.2.rek.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.2.rek\\6.2.rek\\6.2.rek.cpp",
+              "RelativeToolTip": "6.2.rek\\6.2.rek.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T12:49:55.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
